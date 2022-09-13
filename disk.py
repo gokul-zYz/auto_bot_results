@@ -4,7 +4,7 @@ webhook=DiscordWebhook(url=webhookurl)
 embed=DiscordEmbed(title="------------------RESULT----------------",description="HEL23213LO",color="ED4245")
 webhook.add_embed(embed)
 while 1>0:
- for i in range(0,1000):
+ for i in range(0,1001):
     if i==1000:
            webhook.execute()
            print("message received")
