@@ -1,1 +1,1 @@
-python resultauto.py
+python disk.py
