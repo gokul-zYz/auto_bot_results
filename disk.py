@@ -7,7 +7,7 @@ while 1>0:
 
  for i in range(0,1001):
     if i==500:
-       embed=DiscordEmbed(title="------------------RESULT----------------",description=str(c)+"times",color="ED4245")
+       embed=DiscordEmbed(title="------------------RESULT----------------",description="times",color="ED4245")
        webhook.add_embed(embed)
        webhook.execute()
            
