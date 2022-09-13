@@ -1,1 +1,1 @@
-python disk.py
+worker: python disk.py
